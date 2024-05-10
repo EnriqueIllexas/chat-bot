@@ -23,7 +23,7 @@ El proyecto utiliza el conjunto de datos chatgpt(open AI) para entrenar la red n
 1. Clona el repositorio
 
    ```sh
-   git clone https://github.com/midudev/la-velada-web-oficial.git
+   git clone https://github.com/EnriqueIllexas/chat-bot.git
    ```
 
 2. Instala los paquetes de NPM
