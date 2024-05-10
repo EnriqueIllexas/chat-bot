@@ -1,5 +1,5 @@
 
-# CHAT ia EVERTECH
+# chatbot ia EVERTECH
 
 Este proyecto de inteligencia artificial se enfoca en desarrollar un sistema de reconocimiento de objetos utilizando redes neuronales convolucionales (CNN). El objetivo principal es crear un modelo capaz de identificar una amplia variedad de objetos en imágenes con alta precisión.
 
@@ -23,7 +23,7 @@ El proyecto utiliza el conjunto de datos chatgpt(open AI) para entrenar la red n
 1. Clona el repositorio
 
    ```sh
-   git clone https://github.com/EnriqueIllexas/chat-bot.git
+   git clone https://github.com/midudev/la-velada-web-oficial.git
    ```
 
 2. Instala los paquetes de NPM
@@ -46,13 +46,3 @@ El proyecto utiliza el conjunto de datos chatgpt(open AI) para entrenar la red n
 
    pnpm run start
    ```
-
-## TOOLS
-
-   [astro-url]: https://astro.build/
-
-   [typescript-url]: https://www.typescriptlang.org/
-
-   [tailwind-url]: https://tailwindcss.com/
-   
-   [animations-url]: https://tailwindcss-animations.vercel.app/
