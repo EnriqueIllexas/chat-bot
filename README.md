@@ -47,7 +47,7 @@ El proyecto utiliza el conjunto de datos chatgpt(open AI) para entrenar la red n
    pnpm run start
    ```
 
-## 🛠️ Stack
+## 🛠️ Herramientas que se usaron
 
 - [![Astro][astro-badge]][astro-url] - The web framework for content-driven websites.
 - [![Typescript][typescript-badge]][typescript-url] - JavaScript with syntax for types.
