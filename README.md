@@ -14,7 +14,7 @@ El proyecto utiliza el conjunto de datos chatgpt(open AI) para entrenar la red n
 
 ## Imagen Referencial
 
-![Ejemplo de Imagen de Reconocimiento de Objetos](https://example.com/image.jpg)
+![Ejemplo de Imagen de Reconocimiento de Objetos](./web/img/bannermd.png)
 
 ### Instalación
 
